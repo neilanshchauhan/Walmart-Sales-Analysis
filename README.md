@@ -81,7 +81,7 @@ The dataset includes the following columns:
   - Identified Health and Beauty as the most profitable category. 🛍️  
   - Observed that Ewallet is the most frequently used payment method. 💳  
 - **Customer Satisfaction Prediction**:  
-  - Built a predictive model with 82% accuracy to estimate customer satisfaction based on transaction attributes. 🔮  
+  - Built a predictive model with 80% accuracy to estimate customer satisfaction based on transaction attributes. 🔮  
 - **Data Visualization**:  
   - Provided clear and interactive visual insights, enabling stakeholders to make strategic decisions. 📊  
 
