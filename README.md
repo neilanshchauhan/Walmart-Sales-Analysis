@@ -55,7 +55,6 @@ The dataset includes the following columns:
   - Identified trends in sales based on payment methods, ratings, and profit margins. 📈  
 
 ### Customer Satisfaction Prediction 🤖
-### Customer Satisfaction Prediction 🤖
 
 - **Model Used**: LGBM Classifier 🎯
 - **Process**:  
@@ -71,19 +70,6 @@ The dataset includes the following columns:
 - **Process**:  
   - Built interactive dashboards to visualize sales trends, branch performance, and product category distribution. 🖥️  
   - Integrated dynamic filters for city, payment method, and time to enhance user exploration. 🧠  
-
----
-
-## Results 🏆
-
-- **Data Analysis**:  
-  - Highlighted San Antonio and Irving as top-performing cities for sales. 📍  
-  - Identified Health and Beauty as the most profitable category. 🛍️  
-  - Observed that Ewallet is the most frequently used payment method. 💳  
-- **Customer Satisfaction Prediction**:  
-  - Built a predictive model with 80% accuracy to estimate customer satisfaction based on transaction attributes. 🔮  
-- **Data Visualization**:  
-  - Provided clear and interactive visual insights, enabling stakeholders to make strategic decisions. 📊  
 
 ---
 
